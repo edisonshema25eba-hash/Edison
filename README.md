@@ -27,5 +27,4 @@ I love crafting seamless front-end experiences and robust back-end solutions, wh
 
 ## 📫 How to reach me
 - [Email](edison.shema25eba@keplercollege.ac.rw
-- [LinkedIn](https://www.linkedin.com/in/rosine-uwineza-b22272360/)
-mmf-ghgt-pvq
+
